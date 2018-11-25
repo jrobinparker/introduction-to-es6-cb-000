@@ -453,3 +453,5 @@ There are _tons_ of new features in ES6, and we don't have time to cover them al
 - [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/introduction-to-es6'>Introduction To ES6/ECMA2015</a> on Learn.co and start learning to code for free.</p>
+
+## Lesson completed
